@@ -63,6 +63,8 @@ a { color: inherit; }
 
 h1, h2, h3 { font-family: "Fraunces", Georgia, serif; line-height: 1.2; }
 
+h2 { color: var(--accent); }
+
 h1 {
   font-size: clamp(2.4rem, 7vw, 4rem);
   margin: 0 0 16px;
